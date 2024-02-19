@@ -1,0 +1,4 @@
+﻿  adivinha.cpp
+C:\Users\Aluno\source\repos\Adivinha\Adivinha\adivinha.cpp(5,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\Aluno\source\repos\Adivinha\Adivinha\adivinha.cpp(7,6): warning C4101: 'i': variável local não referenciada
+  Adivinha.vcxproj -> C:\Users\Aluno\source\repos\Adivinha\x64\Debug\Adivinha.exe
